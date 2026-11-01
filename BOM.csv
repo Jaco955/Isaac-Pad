@@ -1,8 +1,9 @@
-1x Seeed XIAO RP2040
-12x MX-Style switches
-12x DSA keycaps
-12x through-hole 1N4148 Diodes
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
-PCB (99.5mmx82.5mm)
-1x 3D printed case shell (PLA or PETG)
+Component,Quantity,Description
+Seeed XIAO RP2040,1,Microcontroller
+MX-style switches,12,Mechanical switches
+DSA keycaps,12,Keycaps
+1N4148 diodes,12,Switch diodes
+M3x16mm screws,4,Case screws
+M3x5x4mm heat-set inserts,4,Threaded inserts
+Custom PCB,1,99.5 x 82.5 mm
+3D printed case,1,Custom enclosure
