@@ -10,6 +10,8 @@ A custom 12-key macropad designed for gaming indie games that require 12 keys or
 - Firmware: QMK
 - 12 diodes
 
+## Link to assembly with components in Onshape
+https://cad.onshape.com/documents/5e971efd7a623c123852b87f/w/3ee789333864a6c5aab791e4/e/ed57ad19fab5ebdcdc5959c5
 ## Features
 
 - Custom-designed PCB
